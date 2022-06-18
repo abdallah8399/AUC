@@ -1,4 +1,4 @@
-# Digital-Signal-Processing
+# Gender Recognition
 This project takes a list of sound .wav files as an input and apply Discrete Fourier Transform(DFT) to extract the sound frequency. 
 Then, from the frequency, it determines whether it is a man or a woman.
 
